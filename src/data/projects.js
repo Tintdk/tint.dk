@@ -1,7 +1,7 @@
 export const projects = {
   "test-projekt": {
     title: "125 års jubilæum",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    description: "I anledning af Praxis’ 125-års jubilæum har jeg udviklet en animationsfilm, der formidler organisationens historie, værdier og udvikling gennem tiden. Projektet omfattede hele den kreative og tekniske proces – fra idéudvikling til færdig film. Jeg har udarbejdet storyboard og koncept, samt stået for udvælgelse og kuratering af relevant arkivmateriale, som blev integreret i animationen. Arkivmaterialet er blevet nøje gennemgået og anvendt som visuelle og historiske elementer i fortællingen. Selve animationen har jeg selv produceret, med fokus på at skabe en levende og sammenhængende visuel fortælling, der både respekterer Praxis’ arv og kommunikerer organisationens betydning i dag. Projektet blev udført i tæt dialog med relevante interessenter og med fokus på æstetik, historisk nøjagtighed og visuel formidling.",
     client: "Praxis",
     topic: "Animation",
     services: ["Motion Graphics", "Videoproduktion"],
