@@ -7,7 +7,7 @@ export const projects = {
     services: ["Motion Graphics", "Videoproduktion"],
     cover: {
       type: "image",
-      src: "/media/praxiscover.jpg"
+      src: "/media/praxiscover1.jpg"
     },
     projectMedia: [
       { type: "image", src: "/media/test-image-text-02.png" },
