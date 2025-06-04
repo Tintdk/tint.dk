@@ -13,7 +13,7 @@ export const projects = {
       { type: "image", src: "/media/test-image-text-02.png" },
       { type: "image", src: "/media/test-image-02.jpg" },
       { type: "video", src: "/media/praxis-video.mp4" },
-      { type: "image", src: "/media/test-image-text-01.png" },
+      { type: "image", src: "/media/storyboard1.jpg" },
       { type: "image", src: "/media/test-image-03.jpg" },
     ],
   },
