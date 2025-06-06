@@ -11,10 +11,10 @@ export const projects = {
     },
     projectMedia: [
       { type: "image", src: "/media/Storyboard.jpg" },
-      { type: "image", src: "/media/test-image-02.jpg" },
+      { type: "image", src: "/media/storyboard1.jpg" },
       { type: "video", src: "/media/praxis-video.mp4" },
       { type: "image", src: "/media/storyboard1.jpg" },
-      { type: "image", src: "/media/test-image-03.jpg" },
+      { type: "image", src: "/media/storyboard1.jpg" },
     ],
   },
 };
