@@ -10,7 +10,7 @@ export const projects = {
       src: "/media/praxiscover1.jpg"
     },
     projectMedia: [
-      { type: "image", src: "/media/Storyboard.jpg" },
+      { type: "image", src: "/media/sb.jpg" },
       { type: "image", src: "/media/storyboard1.jpg" },
       { type: "video", src: "/media/praxis-video.mp4" },
       { type: "image", src: "/media/storyboard1.jpg" },
